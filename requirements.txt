@@ -1,0 +1,25 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+python-dotenv>=0.5.1
+pandas
+numpy
+wget
+demoji
+contractions
+matplotlib
+seaborn
+sentence-transformers
+umap-learn
+hdbscan
+gensim
+spacy
+import_ipynb
+networkx
+wordcloud
+pyldavis==3.2.1
+dash
