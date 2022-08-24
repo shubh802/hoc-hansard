@@ -6,7 +6,7 @@ import base64
 """
 Dashboard for HOC Parliamentary Debates
 
-- app.py
+- hoc.py
 - assets/images/
 """
 base_path = "./assets/images/"

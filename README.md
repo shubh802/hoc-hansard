@@ -33,6 +33,5 @@ Rull all code
 Execute the file
 ```sh
 python hoc.py
-Rull all code
 ```
 
